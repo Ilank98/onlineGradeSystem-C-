@@ -1,0 +1,48 @@
+D:\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\bin\Debug\net6.0-windows\OnlineLibrary.exe
+D:\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\bin\Debug\net6.0-windows\OnlineLibrary.deps.json
+D:\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\bin\Debug\net6.0-windows\OnlineLibrary.runtimeconfig.json
+D:\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\bin\Debug\net6.0-windows\OnlineLibrary.dll
+D:\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\bin\Debug\net6.0-windows\OnlineLibrary.pdb
+D:\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\bin\Debug\net6.0-windows\DnsClient.dll
+D:\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+D:\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+D:\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+D:\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\bin\Debug\net6.0-windows\SharpCompress.dll
+D:\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\obj\Debug\net6.0-windows\OnlineLibrary.csproj.AssemblyReference.cache
+D:\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\obj\Debug\net6.0-windows\OnlineLibrary.Online Library.resources
+D:\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\obj\Debug\net6.0-windows\OnlineLibrary.csproj.GenerateResource.cache
+D:\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\obj\Debug\net6.0-windows\OnlineLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\obj\Debug\net6.0-windows\OnlineLibrary.AssemblyInfoInputs.cache
+D:\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\obj\Debug\net6.0-windows\OnlineLibrary.AssemblyInfo.cs
+D:\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\obj\Debug\net6.0-windows\OnlineLibrary.csproj.CoreCompileInputs.cache
+D:\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\obj\Debug\net6.0-windows\OnlineLibrary.csproj.CopyComplete
+D:\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\obj\Debug\net6.0-windows\OnlineLibrary.dll
+D:\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\obj\Debug\net6.0-windows\refint\OnlineLibrary.dll
+D:\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\obj\Debug\net6.0-windows\OnlineLibrary.pdb
+D:\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\obj\Debug\net6.0-windows\OnlineLibrary.genruntimeconfig.cache
+D:\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\obj\Debug\net6.0-windows\ref\OnlineLibrary.dll
+D:\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\obj\Debug\net6.0-windows\OnlineLibrary.StartPage.resources
+C:\Users\ilya\OneDrive\שולחן העבודה\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\bin\Debug\net6.0-windows\OnlineLibrary.exe
+C:\Users\ilya\OneDrive\שולחן העבודה\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\bin\Debug\net6.0-windows\OnlineLibrary.deps.json
+C:\Users\ilya\OneDrive\שולחן העבודה\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\bin\Debug\net6.0-windows\OnlineLibrary.runtimeconfig.json
+C:\Users\ilya\OneDrive\שולחן העבודה\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\bin\Debug\net6.0-windows\OnlineLibrary.dll
+C:\Users\ilya\OneDrive\שולחן העבודה\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\bin\Debug\net6.0-windows\OnlineLibrary.pdb
+C:\Users\ilya\OneDrive\שולחן העבודה\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\ilya\OneDrive\שולחן העבודה\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\ilya\OneDrive\שולחן העבודה\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\ilya\OneDrive\שולחן העבודה\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\ilya\OneDrive\שולחן העבודה\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\ilya\OneDrive\שולחן העבודה\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\obj\Debug\net6.0-windows\OnlineLibrary.csproj.AssemblyReference.cache
+C:\Users\ilya\OneDrive\שולחן העבודה\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\obj\Debug\net6.0-windows\OnlineLibrary.Online Library.resources
+C:\Users\ilya\OneDrive\שולחן העבודה\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\obj\Debug\net6.0-windows\OnlineLibrary.StartPage.resources
+C:\Users\ilya\OneDrive\שולחן העבודה\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\obj\Debug\net6.0-windows\OnlineLibrary.csproj.GenerateResource.cache
+C:\Users\ilya\OneDrive\שולחן העבודה\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\obj\Debug\net6.0-windows\OnlineLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilya\OneDrive\שולחן העבודה\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\obj\Debug\net6.0-windows\OnlineLibrary.AssemblyInfoInputs.cache
+C:\Users\ilya\OneDrive\שולחן העבודה\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\obj\Debug\net6.0-windows\OnlineLibrary.AssemblyInfo.cs
+C:\Users\ilya\OneDrive\שולחן העבודה\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\obj\Debug\net6.0-windows\OnlineLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ilya\OneDrive\שולחן העבודה\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\obj\Debug\net6.0-windows\OnlineLibrary.csproj.CopyComplete
+C:\Users\ilya\OneDrive\שולחן העבודה\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\obj\Debug\net6.0-windows\OnlineLibrary.dll
+C:\Users\ilya\OneDrive\שולחן העבודה\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\obj\Debug\net6.0-windows\refint\OnlineLibrary.dll
+C:\Users\ilya\OneDrive\שולחן העבודה\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\obj\Debug\net6.0-windows\OnlineLibrary.pdb
+C:\Users\ilya\OneDrive\שולחן העבודה\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\obj\Debug\net6.0-windows\OnlineLibrary.genruntimeconfig.cache
+C:\Users\ilya\OneDrive\שולחן העבודה\projectVIisualStudio\OnlineLibrary(solutionName)\OnlineLibrary\obj\Debug\net6.0-windows\ref\OnlineLibrary.dll
